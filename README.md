@@ -1,7 +1,7 @@
 # my_work
 
 This is a new Flutter project.
-Which is based on the Currency Converter, This project includes the languages like C++,C,Dart,HTML etc.
+Which is based on the Currency Converter, This project includes the languages like C++, C, Dart, HTML etc.
 This Currency-Converter usualy converts the amount which is in Dollar to INR.
 
 ## Getting Started
